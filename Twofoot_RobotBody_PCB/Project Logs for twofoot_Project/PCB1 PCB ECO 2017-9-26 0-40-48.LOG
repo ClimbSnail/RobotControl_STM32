@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=PWM_20 Pin=ER6-6
+Removed Pin From Net: NetName=PWM_1 Pin=ER6-8
+Added Pin To Net: NetName=PWM_1 Pin=ER6-6
+Added Pin To Net: NetName=PWM_4 Pin=ER6-8
+Added Room: Name=Sheet1

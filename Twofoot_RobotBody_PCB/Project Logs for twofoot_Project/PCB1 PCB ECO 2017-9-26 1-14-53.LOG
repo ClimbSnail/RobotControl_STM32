@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=NetER5_5 Pin=H6-8
+Removed Pin From Net: NetName=NetER5_7 Pin=H6-9
+Added Pin To Net: NetName=L3 Pin=ER5-3
+Added Pin To Net: NetName=NetER5_5 Pin=H6-7
+Added Pin To Net: NetName=NetER5_7 Pin=H6-8
+Added Pin To Net: NetName=L1 Pin=H6-9
+Added Member To Class: ClassName=Sheet1 Member=Component ER K

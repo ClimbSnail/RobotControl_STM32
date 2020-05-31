@@ -1,0 +1,81 @@
+Added Component: Designator=P7(STRAIN)
+Add component. Clean all parameters for all variants
+Added Component: Designator=P8(STRAIN)
+Add component. Clean all parameters for all variants
+Added Component: Designator=P9(STRAIN)
+Add component. Clean all parameters for all variants
+Added Component: Designator=P10(STRAIN)
+Add component. Clean all parameters for all variants
+Added Component: Designator=P11(STRAIN)
+Add component. Clean all parameters for all variants
+Added Component: Designator=P12(STRAIN)
+Add component. Clean all parameters for all variants
+Added Component: Designator=P13(STRAIN)
+Add component. Clean all parameters for all variants
+Added Component: Designator=P14(STRAIN)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R7(0603P)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R8(0603P)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R9(0603P)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R10(0603P)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R11(0603P)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R12(0603P)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R13(0603P)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R14(0603P)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=ADC1 Pin=P7-1
+Added Pin To Net: NetName=GND_A Pin=P7-2
+Added Pin To Net: NetName=ADC2 Pin=P8-1
+Added Pin To Net: NetName=GND_A Pin=P8-2
+Added Pin To Net: NetName=ADC3 Pin=P9-1
+Added Pin To Net: NetName=GND_A Pin=P9-2
+Added Pin To Net: NetName=ADC4 Pin=P10-1
+Added Pin To Net: NetName=GND_A Pin=P10-2
+Added Pin To Net: NetName=ADC5 Pin=P11-1
+Added Pin To Net: NetName=GND_A Pin=P11-2
+Added Pin To Net: NetName=ADC6 Pin=P12-1
+Added Pin To Net: NetName=GND_A Pin=P12-2
+Added Pin To Net: NetName=ADC7 Pin=P13-1
+Added Pin To Net: NetName=GND_A Pin=P13-2
+Added Pin To Net: NetName=ADC8 Pin=P14-1
+Added Pin To Net: NetName=GND_A Pin=P14-2
+Added Pin To Net: NetName=ADC1 Pin=R7-1
+Added Pin To Net: NetName=VCC_3.3 Pin=R7-2
+Added Pin To Net: NetName=ADC2 Pin=R8-1
+Added Pin To Net: NetName=VCC_3.3 Pin=R8-2
+Added Pin To Net: NetName=ADC3 Pin=R9-1
+Added Pin To Net: NetName=VCC_3.3 Pin=R9-2
+Added Pin To Net: NetName=ADC4 Pin=R10-1
+Added Pin To Net: NetName=VCC_3.3 Pin=R10-2
+Added Pin To Net: NetName=ADC5 Pin=R11-1
+Added Pin To Net: NetName=VCC_3.3 Pin=R11-2
+Added Pin To Net: NetName=ADC6 Pin=R12-1
+Added Pin To Net: NetName=VCC_3.3 Pin=R12-2
+Added Pin To Net: NetName=ADC7 Pin=R13-1
+Added Pin To Net: NetName=VCC_3.3 Pin=R13-2
+Added Pin To Net: NetName=ADC8 Pin=R14-1
+Added Pin To Net: NetName=VCC_3.3 Pin=R14-2
+Added Member To Class: ClassName=Sheet1 Member=Component P7 strsin
+Added Member To Class: ClassName=Sheet1 Member=Component P8 strsin
+Added Member To Class: ClassName=Sheet1 Member=Component P9 strsin
+Added Member To Class: ClassName=Sheet1 Member=Component P10 strsin
+Added Member To Class: ClassName=Sheet1 Member=Component P11 strsin
+Added Member To Class: ClassName=Sheet1 Member=Component P12 strsin
+Added Member To Class: ClassName=Sheet1 Member=Component P13 strsin
+Added Member To Class: ClassName=Sheet1 Member=Component P14 strsin
+Added Member To Class: ClassName=Sheet1 Member=Component R7 000K
+Added Member To Class: ClassName=Sheet1 Member=Component R8 000K
+Added Member To Class: ClassName=Sheet1 Member=Component R9 000K
+Added Member To Class: ClassName=Sheet1 Member=Component R10 000K
+Added Member To Class: ClassName=Sheet1 Member=Component R11 000K
+Added Member To Class: ClassName=Sheet1 Member=Component R12 000K
+Added Member To Class: ClassName=Sheet1 Member=Component R13 000K
+Added Member To Class: ClassName=Sheet1 Member=Component R14 000K
+Added Room: Name=Sheet1

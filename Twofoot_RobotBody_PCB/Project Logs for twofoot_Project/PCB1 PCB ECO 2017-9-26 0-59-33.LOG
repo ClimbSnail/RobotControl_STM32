@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=PWM_15 Pin=ER4-8
+Removed Pin From Net: NetName=NetER5_1 Pin=H6-8
+Removed Pin From Net: NetName=NetER5_3 Pin=H6-9
+Added Pin To Net: NetName=PWM_5 Pin=ER4-8
+Added Pin To Net: NetName=NetER5_1 Pin=H6-7
+Added Pin To Net: NetName=NetER5_3 Pin=H6-8
+Added Pin To Net: NetName=L1 Pin=ER4-7
+Added Pin To Net: NetName=L1 Pin=H6-9
+Added Net: Name=L1
+Added Pin To Net: NetName=L2 Pin=ER5-7
+Added Pin To Net: NetName=L2 Pin=H7-9
+Added Net: Name=L2
+Added Pin To Net: NetName=L3 Pin=ER5-5
+Added Pin To Net: NetName=L3 Pin=H7-8
+Added Net: Name=L3
+Added Pin To Net: NetName=L4 Pin=ER6-1
+Added Pin To Net: NetName=L4 Pin=H7-7
+Added Net: Name=L4
+Added Room: Name=Sheet1

@@ -1,0 +1,227 @@
+<html>
+<body>
+<pre>
+<h1>礦ision Build Log</h1>
+<h2>Tool Versions:</h2>
+IDE-Version: μVision V5.14.2
+Copyright (C) 2015 ARM Ltd and ARM Germany GmbH. All rights reserved.
+License Information: Cortex-M3, HQ, LIC=DSNLQ-NU0S5-HPNZN-Y6FW7-LS24Z-10YWI
+ 
+Tool Versions:
+Toolchain:       MDK-ARM Professional  Version: 5.14.0.0
+Toolchain Path:  D:\MDK\ARM\ARMCC\Bin
+C Compiler:      Armcc.exe V5.05 update 1 (build 106)
+Assembler:       Armasm.exe V5.05 update 1 (build 106)
+Linker/Locator:  ArmLink.exe V5.05 update 1 (build 106)
+Library Manager: ArmAr.exe V5.05 update 1 (build 106)
+Hex Converter:   FromElf.exe V5.05 update 1 (build 106)
+CPU DLL:         SARMCM3.DLL V5.14.0.0
+Dialog DLL:      DARMSTM.DLL V1.65.0.0
+Target DLL:      STLink\ST-LINKIII-KEIL_SWO.dll V2.0.14.0_KEIL
+Dialog DLL:      TARMSTM.DLL V1.64.0.0
+ 
+<h2>Project:</h2>
+E:\我的项目集合\21自由度双足AI体感机器人\Twofoot_RobotBody_Code\USER\Twofoot_RobotBody.uvprojx
+Project File Date:  04/17/2019
+
+<h2>Output:</h2>
+*** Using Compiler 'V5.05 update 1 (build 106)', folder: 'D:\MDK\ARM\ARMCC\Bin'
+Rebuild target 'Twofoot_RobotBody'
+compiling main.c...
+..\HARDWARE\OLED\oled.h(65): warning:  #1295-D: Deprecated declaration Picture - give arg types
+  void Picture();
+..\HARDWARE\OLED\oled.h(66): warning:  #1295-D: Deprecated declaration IIC_Start - give arg types
+  void IIC_Start();
+..\HARDWARE\OLED\oled.h(67): warning:  #1295-D: Deprecated declaration IIC_Stop - give arg types
+  void IIC_Stop();
+..\HARDWARE\OLED\oled.h(72): warning:  #1295-D: Deprecated declaration IIC_Wait_Ack - give arg types
+  void IIC_Wait_Ack();
+..\HARDWARE\action.h(10): warning:  #1295-D: Deprecated declaration actionInit - give arg types
+  extern void actionInit();//动作初始化
+..\HARDWARE\action.h(11): warning:  #1295-D: Deprecated declaration standUp - give arg types
+  extern void standUp();//站起来
+..\HARDWARE\action.h(12): warning:  #1295-D: Deprecated declaration sitDown - give arg types
+  extern void sitDown();//蹲下
+..\HARDWARE\action.h(13): warning:  #1295-D: Deprecated declaration halfSitDown - give arg types
+  extern void halfSitDown();//半蹲
+..\HARDWARE\action.h(14): warning:  #1295-D: Deprecated declaration leftLeaning - give arg types
+  extern void leftLeaning();//左倾
+..\HARDWARE\action.h(15): warning:  #1295-D: Deprecated declaration rightLeaning - give arg types
+  extern void rightLeaning();//右倾
+..\HARDWARE\action.h(16): warning:  #1295-D: Deprecated declaration open - give arg types
+  extern void open();//张脚
+..\HARDWARE\action.h(17): warning:  #1295-D: Deprecated declaration forWordOne - give arg types
+  extern void forWordOne();//前进1
+..\HARDWARE\action.h(18): warning:  #1295-D: Deprecated declaration forWordTwo - give arg types
+  extern void forWordTwo();//前进2
+..\HARDWARE\action.h(19): warning:  #1295-D: Deprecated declaration backOne - give arg types
+  extern void backOne();//后退1
+..\HARDWARE\action.h(20): warning:  #1295-D: Deprecated declaration backTwo - give arg types
+  extern void backTwo();//后退2
+..\HARDWARE\XFS5152V2\XFS5152V2.h(31): warning:  #1295-D: Deprecated declaration XFS_I2C_Start - give arg types
+  void XFS_I2C_Start();
+..\HARDWARE\XFS5152V2\XFS5152V2.h(32): warning:  #1295-D: Deprecated declaration XFS_I2C_Stop - give arg types
+  void XFS_I2C_Stop();
+..\HARDWARE\XFS5152V2\XFS5152V2.h(35): warning:  #1295-D: Deprecated declaration XFS_Test_Ack - give arg types
+  void XFS_Test_Ack();
+main.c(264): warning:  #550-D: variable "pwmL" was set but never used
+      short pwmL[12];//存放当前动作组的pwm值
+main.c(265): warning:  #550-D: variable "pwmR" was set but never used
+      short pwmR[12];//存放当前动作组的pwm值
+main.c(327): warning:  #177-D: variable "adcx" was declared but never referenced
+      u16 adcx;
+main.c: 21 warnings, 0 errors
+compiling stm32f10x_it.c...
+compiling system_stm32f10x.c...
+compiling led.c...
+compiling pwm.c...
+..\HARDWARE\action.h(10): warning:  #1295-D: Deprecated declaration actionInit - give arg types
+  extern void actionInit();//动作初始化
+..\HARDWARE\action.h(11): warning:  #1295-D: Deprecated declaration standUp - give arg types
+  extern void standUp();//站起来
+..\HARDWARE\action.h(12): warning:  #1295-D: Deprecated declaration sitDown - give arg types
+  extern void sitDown();//蹲下
+..\HARDWARE\action.h(13): warning:  #1295-D: Deprecated declaration halfSitDown - give arg types
+  extern void halfSitDown();//半蹲
+..\HARDWARE\action.h(14): warning:  #1295-D: Deprecated declaration leftLeaning - give arg types
+  extern void leftLeaning();//左倾
+..\HARDWARE\action.h(15): warning:  #1295-D: Deprecated declaration rightLeaning - give arg types
+  extern void rightLeaning();//右倾
+..\HARDWARE\action.h(16): warning:  #1295-D: Deprecated declaration open - give arg types
+  extern void open();//张脚
+..\HARDWARE\action.h(17): warning:  #1295-D: Deprecated declaration forWordOne - give arg types
+  extern void forWordOne();//前进1
+..\HARDWARE\action.h(18): warning:  #1295-D: Deprecated declaration forWordTwo - give arg types
+  extern void forWordTwo();//前进2
+..\HARDWARE\action.h(19): warning:  #1295-D: Deprecated declaration backOne - give arg types
+  extern void backOne();//后退1
+..\HARDWARE\action.h(20): warning:  #1295-D: Deprecated declaration backTwo - give arg types
+  extern void backTwo();//后退2
+..\HARDWARE\PWM\pwm.c: 11 warnings, 0 errors
+compiling ADC.c...
+..\HARDWARE\ADC.c(120): warning:  #550-D: variable "avg" was set but never used
+      u16 avg[8];
+..\HARDWARE\ADC.c: 1 warning, 0 errors
+compiling oled.c...
+..\HARDWARE\OLED\oled.h(65): warning:  #1295-D: Deprecated declaration Picture - give arg types
+  void Picture();
+..\HARDWARE\OLED\oled.h(66): warning:  #1295-D: Deprecated declaration IIC_Start - give arg types
+  void IIC_Start();
+..\HARDWARE\OLED\oled.h(67): warning:  #1295-D: Deprecated declaration IIC_Stop - give arg types
+  void IIC_Stop();
+..\HARDWARE\OLED\oled.h(72): warning:  #1295-D: Deprecated declaration IIC_Wait_Ack - give arg types
+  void IIC_Wait_Ack();
+..\HARDWARE\OLED\oled.c(405): warning:  #1-D: last line of file ends without a newline
+  }
+..\HARDWARE\OLED\oled.c: 5 warnings, 0 errors
+compiling MY_USART3.c...
+compiling action.c...
+..\HARDWARE\action.h(10): warning:  #1295-D: Deprecated declaration actionInit - give arg types
+  extern void actionInit();//动作初始化
+..\HARDWARE\action.h(11): warning:  #1295-D: Deprecated declaration standUp - give arg types
+  extern void standUp();//站起来
+..\HARDWARE\action.h(12): warning:  #1295-D: Deprecated declaration sitDown - give arg types
+  extern void sitDown();//蹲下
+..\HARDWARE\action.h(13): warning:  #1295-D: Deprecated declaration halfSitDown - give arg types
+  extern void halfSitDown();//半蹲
+..\HARDWARE\action.h(14): warning:  #1295-D: Deprecated declaration leftLeaning - give arg types
+  extern void leftLeaning();//左倾
+..\HARDWARE\action.h(15): warning:  #1295-D: Deprecated declaration rightLeaning - give arg types
+  extern void rightLeaning();//右倾
+..\HARDWARE\action.h(16): warning:  #1295-D: Deprecated declaration open - give arg types
+  extern void open();//张脚
+..\HARDWARE\action.h(17): warning:  #1295-D: Deprecated declaration forWordOne - give arg types
+  extern void forWordOne();//前进1
+..\HARDWARE\action.h(18): warning:  #1295-D: Deprecated declaration forWordTwo - give arg types
+  extern void forWordTwo();//前进2
+..\HARDWARE\action.h(19): warning:  #1295-D: Deprecated declaration backOne - give arg types
+  extern void backOne();//后退1
+..\HARDWARE\action.h(20): warning:  #1295-D: Deprecated declaration backTwo - give arg types
+  extern void backTwo();//后退2
+..\HARDWARE\XFS5152V2\XFS5152V2.h(31): warning:  #1295-D: Deprecated declaration XFS_I2C_Start - give arg types
+  void XFS_I2C_Start();
+..\HARDWARE\XFS5152V2\XFS5152V2.h(32): warning:  #1295-D: Deprecated declaration XFS_I2C_Stop - give arg types
+  void XFS_I2C_Stop();
+..\HARDWARE\XFS5152V2\XFS5152V2.h(35): warning:  #1295-D: Deprecated declaration XFS_Test_Ack - give arg types
+  void XFS_Test_Ack();
+..\HARDWARE\action.c(18): warning:  #1295-D: Deprecated declaration actionInit - give arg types
+  void actionInit();//动作初始化
+..\HARDWARE\action.c(19): warning:  #1295-D: Deprecated declaration standUp - give arg types
+  void standUp();//站起来
+..\HARDWARE\action.c(20): warning:  #1295-D: Deprecated declaration sitDown - give arg types
+  void sitDown();//蹲下
+..\HARDWARE\action.c(21): warning:  #1295-D: Deprecated declaration halfSitDown - give arg types
+  void halfSitDown();//半蹲
+..\HARDWARE\action.c(23): warning:  #1295-D: Deprecated declaration forWordOne - give arg types
+  void forWordOne();//前进1
+..\HARDWARE\action.c(24): warning:  #1295-D: Deprecated declaration forWordTwo - give arg types
+  void forWordTwo();//前进2
+..\HARDWARE\action.c(25): warning:  #1295-D: Deprecated declaration backOne - give arg types
+  void backOne();//后退1
+..\HARDWARE\action.c(26): warning:  #1295-D: Deprecated declaration backTwo - give arg types
+  void backTwo();//后退2
+..\HARDWARE\action.c: 22 warnings, 0 errors
+compiling allActionArr.c...
+..\HARDWARE\action.h(10): warning:  #1295-D: Deprecated declaration actionInit - give arg types
+  extern void actionInit();//动作初始化
+..\HARDWARE\action.h(11): warning:  #1295-D: Deprecated declaration standUp - give arg types
+  extern void standUp();//站起来
+..\HARDWARE\action.h(12): warning:  #1295-D: Deprecated declaration sitDown - give arg types
+  extern void sitDown();//蹲下
+..\HARDWARE\action.h(13): warning:  #1295-D: Deprecated declaration halfSitDown - give arg types
+  extern void halfSitDown();//半蹲
+..\HARDWARE\action.h(14): warning:  #1295-D: Deprecated declaration leftLeaning - give arg types
+  extern void leftLeaning();//左倾
+..\HARDWARE\action.h(15): warning:  #1295-D: Deprecated declaration rightLeaning - give arg types
+  extern void rightLeaning();//右倾
+..\HARDWARE\action.h(16): warning:  #1295-D: Deprecated declaration open - give arg types
+  extern void open();//张脚
+..\HARDWARE\action.h(17): warning:  #1295-D: Deprecated declaration forWordOne - give arg types
+  extern void forWordOne();//前进1
+..\HARDWARE\action.h(18): warning:  #1295-D: Deprecated declaration forWordTwo - give arg types
+  extern void forWordTwo();//前进2
+..\HARDWARE\action.h(19): warning:  #1295-D: Deprecated declaration backOne - give arg types
+  extern void backOne();//后退1
+..\HARDWARE\action.h(20): warning:  #1295-D: Deprecated declaration backTwo - give arg types
+  extern void backTwo();//后退2
+..\HARDWARE\allActionArr.c: 11 warnings, 0 errors
+compiling gps.c...
+compiling DMA.C...
+compiling uart5.c...
+..\HARDWARE\uart5\uart5.c(59): warning:  #550-D: variable "Res" was set but never used
+      u8 Res;
+..\HARDWARE\uart5\uart5.c: 1 warning, 0 errors
+compiling XFS5152V2.c...
+..\HARDWARE\XFS5152V2\XFS5152V2.c(7): warning:  #9-D: nested comment is not allowed
+  /*******************************************************************/
+..\HARDWARE\XFS5152V2\XFS5152V2.h(31): warning:  #1295-D: Deprecated declaration XFS_I2C_Start - give arg types
+  void XFS_I2C_Start();
+..\HARDWARE\XFS5152V2\XFS5152V2.h(32): warning:  #1295-D: Deprecated declaration XFS_I2C_Stop - give arg types
+  void XFS_I2C_Stop();
+..\HARDWARE\XFS5152V2\XFS5152V2.h(35): warning:  #1295-D: Deprecated declaration XFS_Test_Ack - give arg types
+  void XFS_Test_Ack();
+..\HARDWARE\XFS5152V2\XFS5152V2.c: 4 warnings, 0 errors
+compiling delay.c...
+compiling sys.c...
+compiling core_cm3.c...
+assembling startup_stm32f10x_hd.s...
+compiling stm32f10x_gpio.c...
+compiling stm32f10x_rcc.c...
+compiling stm32f10x_usart.c...
+compiling misc.c...
+compiling stm32f10x_tim.c...
+compiling stm32f10x_adc.c...
+compiling stm32f10x_dma.c...
+linking...
+Program Size: Code=19016 RO-data=101272 RW-data=2340 ZI-data=18132  
+FromELF: creating hex file...
+"..\OBJ\Twofoot_RobotBody.axf" - 0 Error(s), 76 Warning(s).
+
+<h2>Collection of Component include folders:</h2>
+  E:\我的项目集合\21自由度双足AI体感机器人\Twofoot_RobotBody_Code\USER\RTE
+  D:\MDK\ARM\PACK\Keil\STM32F1xx_DFP\1.0.5\Device\Include
+
+<h2>Collection of Component Files used:</h2>
+</pre>
+</body>
+</html>

@@ -1,0 +1,192 @@
+Removed Pin From Net: NetName=ADC1 Pin=P7-1
+Removed Pin From Net: NetName=GND_A Pin=P7-2
+Removed Pin From Net: NetName=ADC2 Pin=P8-1
+Removed Pin From Net: NetName=GND_A Pin=P8-2
+Removed Pin From Net: NetName=ADC3 Pin=P9-1
+Removed Pin From Net: NetName=GND_A Pin=P9-2
+Removed Pin From Net: NetName=ADC4 Pin=P10-1
+Removed Pin From Net: NetName=GND_A Pin=P10-2
+Removed Pin From Net: NetName=ADC5 Pin=P11-1
+Removed Pin From Net: NetName=GND_A Pin=P11-2
+Removed Pin From Net: NetName=ADC6 Pin=P12-1
+Removed Pin From Net: NetName=GND_A Pin=P12-2
+Removed Pin From Net: NetName=ADC7 Pin=P13-1
+Removed Pin From Net: NetName=GND_A Pin=P13-2
+Removed Pin From Net: NetName=ADC8 Pin=P14-1
+Removed Pin From Net: NetName=GND_A Pin=P14-2
+Removed Pin From Net: NetName=ADC1 Pin=R7-1
+Removed Pin From Net: NetName=ADC2 Pin=R8-1
+Removed Pin From Net: NetName=ADC3 Pin=R9-1
+Removed Pin From Net: NetName=VCC_3.3 Pin=R9-2
+Removed Pin From Net: NetName=ADC4 Pin=R10-1
+Removed Pin From Net: NetName=VCC_3.3 Pin=R10-2
+Removed Pin From Net: NetName=ADC5 Pin=R11-1
+Removed Pin From Net: NetName=ADC6 Pin=R12-1
+Removed Pin From Net: NetName=ADC7 Pin=R13-1
+Removed Pin From Net: NetName=VCC_3.3 Pin=R13-2
+Removed Pin From Net: NetName=ADC8 Pin=R14-1
+Removed Pin From Net: NetName=VCC_3.3 Pin=R14-2
+Removed Pin From Net: NetName=NetC4_2 Pin=Y2-
+Removed Pin From Net: NetName=NetC3_1 Pin=Y2-
+Change Component Comment : Designator=Y2 Old Comment=12MHz New Comment=8MHz
+Added Component: Designator=R11(0603P)
+Added Component: Designator=R11(0603P)
+Added Component: Designator=R11(0603P)
+Added Component: Designator=R11(0603P)
+Added Component: Designator=R11(0603P)
+Added Component: Designator=R11(0603P)
+Added Component: Designator=R12(0603P)
+Added Component: Designator=R12(0603P)
+Added Component: Designator=R12(0603P)
+Added Component: Designator=R12(0603P)
+Added Component: Designator=R12(0603P)
+Added Component: Designator=R12(0603P)
+Added Component: Designator=R13(0603P)
+Added Component: Designator=R13(0603P)
+Added Component: Designator=R13(0603P)
+Added Component: Designator=R13(0603P)
+Added Component: Designator=R13(0603P)
+Added Component: Designator=R13(0603P)
+Added Component: Designator=R14(0603P)
+Added Component: Designator=R14(0603P)
+Added Component: Designator=R14(0603P)
+Added Component: Designator=R14(0603P)
+Added Component: Designator=R14(0603P)
+Added Component: Designator=R14(0603P)
+Added Pin To Net: NetName=GND_A Pin=R9-1
+Added Pin To Net: NetName=GND_A Pin=R10-1
+Added Pin To Net: NetName=VCC_3.3 Pin=R11-2
+Added Pin To Net: NetName=VCC_3.3 Pin=R11-2
+Added Pin To Net: NetName=VCC_3.3 Pin=R11-2
+Added Pin To Net: NetName=VCC_3.3 Pin=R11-2
+Added Pin To Net: NetName=VCC_3.3 Pin=R11-2
+Added Pin To Net: NetName=VCC_3.3 Pin=R11-2
+Added Pin To Net: NetName=VCC_3.3 Pin=R12-2
+Added Pin To Net: NetName=VCC_3.3 Pin=R12-2
+Added Pin To Net: NetName=VCC_3.3 Pin=R12-2
+Added Pin To Net: NetName=VCC_3.3 Pin=R12-2
+Added Pin To Net: NetName=VCC_3.3 Pin=R12-2
+Added Pin To Net: NetName=VCC_3.3 Pin=R12-2
+Added Pin To Net: NetName=GND_A Pin=R13-1
+Added Pin To Net: NetName=GND_A Pin=R13-1
+Added Pin To Net: NetName=GND_A Pin=R13-1
+Added Pin To Net: NetName=GND_A Pin=R13-1
+Added Pin To Net: NetName=GND_A Pin=R13-1
+Added Pin To Net: NetName=GND_A Pin=R13-1
+Added Pin To Net: NetName=GND_A Pin=R13-1
+Added Pin To Net: NetName=GND_A Pin=R14-1
+Added Pin To Net: NetName=GND_A Pin=R14-1
+Added Pin To Net: NetName=GND_A Pin=R14-1
+Added Pin To Net: NetName=GND_A Pin=R14-1
+Added Pin To Net: NetName=GND_A Pin=R14-1
+Added Pin To Net: NetName=GND_A Pin=R14-1
+Added Pin To Net: NetName=GND_A Pin=R14-1
+Added Pin To Net: NetName=NetC3_1 Pin=Y2-1
+Added Pin To Net: NetName=NetC4_2 Pin=Y2-2
+Added Pin To Net: NetName=NetR7_1 Pin=R7-1
+Added Pin To Net: NetName=NetR7_1 Pin=R9-2
+Added Net: Name=NetR7_1
+Added Pin To Net: NetName=NetR8_1 Pin=R8-1
+Added Pin To Net: NetName=NetR8_1 Pin=R10-2
+Added Net: Name=NetR8_1
+Added Pin To Net: NetName=NetR11_1 Pin=R11-1
+Added Pin To Net: NetName=NetR11_1 Pin=R13-2
+Added Net: Name=NetR11_1
+Added Pin To Net: NetName=NetR12_1 Pin=R12-1
+Added Pin To Net: NetName=NetR12_1 Pin=R14-2
+Added Net: Name=NetR12_1
+Added Member To Class: ClassName=Sheet1 Member=Component C1 104
+Added Member To Class: ClassName=Sheet1 Member=Component C2 104
+Added Member To Class: ClassName=Sheet1 Member=Component C3 104
+Added Member To Class: ClassName=Sheet1 Member=Component C4 104
+Added Member To Class: ClassName=Sheet1 Member=Component C5 104
+Added Member To Class: ClassName=Sheet1 Member=Component C6. 10UF
+Added Member To Class: ClassName=Sheet1 Member=Component C10 104
+Added Member To Class: ClassName=Sheet1 Member=Component C11 104
+Added Member To Class: ClassName=Sheet1 Member=Component C12 104
+Added Member To Class: ClassName=Sheet1 Member=Component C13 220uF
+Added Member To Class: ClassName=Sheet1 Member=Component D1 1N4148
+Added Member To Class: ClassName=Sheet1 Member=Component D2 1N4148
+Added Member To Class: ClassName=Sheet1 Member=Component D3 1N4148
+Added Member To Class: ClassName=Sheet1 Member=Component DC_IN POWER
+Added Member To Class: ClassName=Sheet1 Member=Component DM1 SMBJ
+Added Member To Class: ClassName=Sheet1 Member=Component DM2 SMBJ
+Added Member To Class: ClassName=Sheet1 Member=Component DM3 SMBJ
+Added Member To Class: ClassName=Sheet1 Member=Component DM4 SMBJ
+Added Member To Class: ClassName=Sheet1 Member=Component DM5 SMBJ
+Added Member To Class: ClassName=Sheet1 Member=Component DM6 SMBJ
+Added Member To Class: ClassName=Sheet1 Member=Component DM7 SMBJ
+Added Member To Class: ClassName=Sheet1 Member=Component DM8 SMBJ
+Added Member To Class: ClassName=Sheet1 Member=Component DM9 SMBJ
+Added Member To Class: ClassName=Sheet1 Member=Component DM10 SMBJ
+Added Member To Class: ClassName=Sheet1 Member=Component DM11 SMBJ
+Added Member To Class: ClassName=Sheet1 Member=Component DM12 SMBJ
+Added Member To Class: ClassName=Sheet1 Member=Component DM13 SMBJ
+Added Member To Class: ClassName=Sheet1 Member=Component DM14 SMBJ
+Added Member To Class: ClassName=Sheet1 Member=Component DM15 SMBJ
+Added Member To Class: ClassName=Sheet1 Member=Component DM16 SMBJ
+Added Member To Class: ClassName=Sheet1 Member=Component DM17 SMBJ
+Added Member To Class: ClassName=Sheet1 Member=Component DM18 SMBJ
+Added Member To Class: ClassName=Sheet1 Member=Component DM19 SMBJ
+Added Member To Class: ClassName=Sheet1 Member=Component DM20 SMBJ
+Added Member To Class: ClassName=Sheet1 Member=Component DM21 SMBJ
+Added Member To Class: ClassName=Sheet1 Member=Component DM22 SMBJ
+Added Member To Class: ClassName=Sheet1 Member=Component DM23 SMBJ
+Added Member To Class: ClassName=Sheet1 Member=Component DM24 SMBJ
+Added Member To Class: ClassName=Sheet1 Member=Component DS2 LED2
+Added Member To Class: ClassName=Sheet1 Member=Component ER1 K
+Added Member To Class: ClassName=Sheet1 Member=Component ER2 K
+Added Member To Class: ClassName=Sheet1 Member=Component ER3 K
+Added Member To Class: ClassName=Sheet1 Member=Component ER4 K
+Added Member To Class: ClassName=Sheet1 Member=Component ER5 K
+Added Member To Class: ClassName=Sheet1 Member=Component ER K
+Added Member To Class: ClassName=Sheet1 Member=Component H1 hader_3*3
+Added Member To Class: ClassName=Sheet1 Member=Component H2 hader_3*3
+Added Member To Class: ClassName=Sheet1 Member=Component H3 hader_3*3
+Added Member To Class: ClassName=Sheet1 Member=Component H4 hader_3*3
+Added Member To Class: ClassName=Sheet1 Member=Component H5 hader_3*3
+Added Member To Class: ClassName=Sheet1 Member=Component H6 hader_3*3
+Added Member To Class: ClassName=Sheet1 Member=Component H7 hader_3*3
+Added Member To Class: ClassName=Sheet1 Member=Component H8 hader_3*3
+Added Member To Class: ClassName=Sheet1 Member=Component KEY1 KEY_M
+Added Member To Class: ClassName=Sheet1 Member=Component MOS1 SI2302
+Added Member To Class: ClassName=Sheet1 Member=Component MOS2 SI2302
+Added Member To Class: ClassName=Sheet1 Member=Component P1 ´®¿Ú
+Added Member To Class: ClassName=Sheet1 Member=Component P2 SWD
+Added Member To Class: ClassName=Sheet1 Member=Component P3 ´®¿Ú
+Added Member To Class: ClassName=Sheet1 Member=Component P4 OLED_IIC
+Added Member To Class: ClassName=Sheet1 Member=Component P5 LED_COM
+Added Member To Class: ClassName=Sheet1 Member=Component P6 LED_COM
+Added Member To Class: ClassName=Sheet1 Member=Component P7 strsin
+Added Member To Class: ClassName=Sheet1 Member=Component P8 strsin
+Added Member To Class: ClassName=Sheet1 Member=Component P9 strsin
+Added Member To Class: ClassName=Sheet1 Member=Component P10 strsin
+Added Member To Class: ClassName=Sheet1 Member=Component P11 strsin
+Added Member To Class: ClassName=Sheet1 Member=Component P12 strsin
+Added Member To Class: ClassName=Sheet1 Member=Component P13 strsin
+Added Member To Class: ClassName=Sheet1 Member=Component P14 strsin
+Added Member To Class: ClassName=Sheet1 Member=Component P hader4
+Added Member To Class: ClassName=Sheet1 Member=Component R1 10R
+Added Member To Class: ClassName=Sheet1 Member=Component R2 10K
+Added Member To Class: ClassName=Sheet1 Member=Component R4 1K
+Added Member To Class: ClassName=Sheet1 Member=Component R6 10K
+Added Member To Class: ClassName=Sheet1 Member=Component R7 000K
+Added Member To Class: ClassName=Sheet1 Member=Component R8 000K
+Added Member To Class: ClassName=Sheet1 Member=Component R9 000K
+Added Member To Class: ClassName=Sheet1 Member=Component R10 000K
+Added Member To Class: ClassName=Sheet1 Member=Component R11 000K
+Added Member To Class: ClassName=Sheet1 Member=Component R12 000K
+Added Member To Class: ClassName=Sheet1 Member=Component R13 000K
+Added Member To Class: ClassName=Sheet1 Member=Component R14 000K
+Added Member To Class: ClassName=Sheet1 Member=Component R32 10K
+Added Member To Class: ClassName=Sheet1 Member=Component R33 100R
+Added Member To Class: ClassName=Sheet1 Member=Component R34 100R
+Added Member To Class: ClassName=Sheet1 Member=Component R35 10K
+Added Member To Class: ClassName=Sheet1 Member=Component RS RS485
+Added Member To Class: ClassName=Sheet1 Member=Component S1 SW-SPDT
+Added Member To Class: ClassName=Sheet1 Member=Component U1 STM32F103RCT6
+Added Member To Class: ClassName=Sheet1 Member=Component U2 AMS1117-3.3
+Added Member To Class: ClassName=Sheet1 Member=Component U3 RECTIFIER
+Added Member To Class: ClassName=Sheet1 Member=Component Y1 32.768K
+Added Member To Class: ClassName=Sheet1 Member=Component Y2 8MHz
+Added Room: Name=Sheet1

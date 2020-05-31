@@ -1,0 +1,7 @@
+Added Component: Designator=U4(RECTIFIER)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetU3_2 Pin=U4-1
+Added Pin To Net: NetName=VCC_6.5V Pin=U4-2
+Added Member To Class: ClassName=Sheet1 Member=Component U3 RECTIFIER
+Added Member To Class: ClassName=Sheet1 Member=Component U4 RECTIFIER
+Added Room: Name=Sheet1

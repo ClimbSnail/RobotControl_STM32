@@ -1,0 +1,139 @@
+Removed Pin From Net: NetName=PWM_21 Pin=H1-7
+Removed Pin From Net: NetName=PWM_22 Pin=H1-8
+Removed Pin From Net: NetName=PWM_23 Pin=H1-9
+Removed Pin From Net: NetName=PWM_24 Pin=H2-7
+Removed Pin From Net: NetName=PWM_9 Pin=H2-8
+Removed Pin From Net: NetName=PWM_10 Pin=H2-9
+Removed Pin From Net: NetName=PWM_11 Pin=H3-7
+Removed Pin From Net: NetName=PWM_12 Pin=H3-8
+Removed Pin From Net: NetName=PWM_7 Pin=H3-9
+Removed Pin From Net: NetName=PWM_10 Pin=H4-7
+Removed Pin From Net: NetName=PWM_8 Pin=H4-8
+Removed Pin From Net: NetName=PWM_18 Pin=H4-9
+Removed Pin From Net: NetName=PWM_14 Pin=H5-7
+Removed Pin From Net: NetName=PWM_15 Pin=H5-8
+Removed Pin From Net: NetName=PWM_16 Pin=H5-9
+Removed Pin From Net: NetName=PWM_15 Pin=H6-7
+Removed Pin From Net: NetName=PWM_6 Pin=H6-8
+Removed Pin From Net: NetName=PWM_13 Pin=H6-9
+Removed Pin From Net: NetName=PWM_2 Pin=H7-7
+Removed Pin From Net: NetName=PWM_3 Pin=H7-8
+Removed Pin From Net: NetName=PWM_4 Pin=H7-9
+Removed Pin From Net: NetName=PWM_19 Pin=H8-7
+Removed Pin From Net: NetName=PWM_20 Pin=H8-8
+Removed Pin From Net: NetName=PWM_1 Pin=H8-9
+Added Component: Designator=ER1(8P4R_0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=ER2(8P4R_0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=ER3(8P4R_0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=ER4(8P4R_0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=ER5(8P4R_0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=ER6(8P4R_0603)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=PWM_21 Pin=ER1-2
+Added Pin To Net: NetName=PWM_22 Pin=ER1-4
+Added Pin To Net: NetName=PWM_23 Pin=ER1-6
+Added Pin To Net: NetName=PWM_24 Pin=ER1-8
+Added Pin To Net: NetName=PWM_9 Pin=ER2-2
+Added Pin To Net: NetName=PWM_10 Pin=ER2-4
+Added Pin To Net: NetName=PWM_11 Pin=ER2-6
+Added Pin To Net: NetName=PWM_12 Pin=ER2-8
+Added Pin To Net: NetName=PWM_7 Pin=ER3-2
+Added Pin To Net: NetName=PWM_10 Pin=ER3-4
+Added Pin To Net: NetName=PWM_8 Pin=ER3-6
+Added Pin To Net: NetName=PWM_18 Pin=ER3-8
+Added Pin To Net: NetName=PWM_14 Pin=ER4-2
+Added Pin To Net: NetName=PWM_15 Pin=ER4-4
+Added Pin To Net: NetName=PWM_16 Pin=ER4-6
+Added Pin To Net: NetName=PWM_15 Pin=ER4-8
+Added Pin To Net: NetName=PWM_6 Pin=ER5-2
+Added Pin To Net: NetName=PWM_13 Pin=ER5-4
+Added Pin To Net: NetName=PWM_2 Pin=ER5-6
+Added Pin To Net: NetName=PWM_3 Pin=ER5-8
+Added Pin To Net: NetName=PWM_4 Pin=ER6-2
+Added Pin To Net: NetName=PWM_19 Pin=ER6-4
+Added Pin To Net: NetName=PWM_20 Pin=ER6-6
+Added Pin To Net: NetName=PWM_1 Pin=ER6-8
+Added Pin To Net: NetName=NetER1_1 Pin=ER1-1
+Added Pin To Net: NetName=NetER1_1 Pin=H1-7
+Added Net: Name=NetER1_1
+Added Pin To Net: NetName=NetER1_3 Pin=ER1-3
+Added Pin To Net: NetName=NetER1_3 Pin=H1-8
+Added Net: Name=NetER1_3
+Added Pin To Net: NetName=NetER1_5 Pin=ER1-5
+Added Pin To Net: NetName=NetER1_5 Pin=H1-9
+Added Net: Name=NetER1_5
+Added Pin To Net: NetName=NetER1_7 Pin=ER1-7
+Added Pin To Net: NetName=NetER1_7 Pin=H2-7
+Added Net: Name=NetER1_7
+Added Pin To Net: NetName=NetER2_1 Pin=ER2-1
+Added Pin To Net: NetName=NetER2_1 Pin=H2-8
+Added Net: Name=NetER2_1
+Added Pin To Net: NetName=NetER2_3 Pin=ER2-3
+Added Pin To Net: NetName=NetER2_3 Pin=H2-9
+Added Net: Name=NetER2_3
+Added Pin To Net: NetName=NetER2_5 Pin=ER2-5
+Added Pin To Net: NetName=NetER2_5 Pin=H3-7
+Added Net: Name=NetER2_5
+Added Pin To Net: NetName=NetER2_7 Pin=ER2-7
+Added Pin To Net: NetName=NetER2_7 Pin=H3-8
+Added Net: Name=NetER2_7
+Added Pin To Net: NetName=NetER3_1 Pin=ER3-1
+Added Pin To Net: NetName=NetER3_1 Pin=H3-9
+Added Net: Name=NetER3_1
+Added Pin To Net: NetName=NetER3_3 Pin=ER3-3
+Added Pin To Net: NetName=NetER3_3 Pin=H4-7
+Added Net: Name=NetER3_3
+Added Pin To Net: NetName=NetER3_5 Pin=ER3-5
+Added Pin To Net: NetName=NetER3_5 Pin=H4-8
+Added Net: Name=NetER3_5
+Added Pin To Net: NetName=NetER3_7 Pin=ER3-7
+Added Pin To Net: NetName=NetER3_7 Pin=H4-9
+Added Net: Name=NetER3_7
+Added Pin To Net: NetName=NetER4_1 Pin=ER4-1
+Added Pin To Net: NetName=NetER4_1 Pin=H5-7
+Added Net: Name=NetER4_1
+Added Pin To Net: NetName=NetER4_3 Pin=ER4-3
+Added Pin To Net: NetName=NetER4_3 Pin=H5-8
+Added Net: Name=NetER4_3
+Added Pin To Net: NetName=NetER4_5 Pin=ER4-5
+Added Pin To Net: NetName=NetER4_5 Pin=H5-9
+Added Net: Name=NetER4_5
+Added Pin To Net: NetName=NetER4_7 Pin=ER4-7
+Added Pin To Net: NetName=NetER4_7 Pin=H6-7
+Added Net: Name=NetER4_7
+Added Pin To Net: NetName=NetER5_1 Pin=ER5-1
+Added Pin To Net: NetName=NetER5_1 Pin=H6-8
+Added Net: Name=NetER5_1
+Added Pin To Net: NetName=NetER5_3 Pin=ER5-3
+Added Pin To Net: NetName=NetER5_3 Pin=H6-9
+Added Net: Name=NetER5_3
+Added Pin To Net: NetName=NetER5_5 Pin=ER5-5
+Added Pin To Net: NetName=NetER5_5 Pin=H7-7
+Added Net: Name=NetER5_5
+Added Pin To Net: NetName=NetER5_7 Pin=ER5-7
+Added Pin To Net: NetName=NetER5_7 Pin=H7-8
+Added Net: Name=NetER5_7
+Added Pin To Net: NetName=NetER6_1 Pin=ER6-1
+Added Pin To Net: NetName=NetER6_1 Pin=H7-9
+Added Net: Name=NetER6_1
+Added Pin To Net: NetName=NetER6_3 Pin=ER6-3
+Added Pin To Net: NetName=NetER6_3 Pin=H8-7
+Added Net: Name=NetER6_3
+Added Pin To Net: NetName=NetER6_5 Pin=ER6-5
+Added Pin To Net: NetName=NetER6_5 Pin=H8-8
+Added Net: Name=NetER6_5
+Added Pin To Net: NetName=NetER6_7 Pin=ER6-7
+Added Pin To Net: NetName=NetER6_7 Pin=H8-9
+Added Net: Name=NetER6_7
+Added Member To Class: ClassName=Sheet1 Member=Component ER1 K
+Added Member To Class: ClassName=Sheet1 Member=Component ER2 K
+Added Member To Class: ClassName=Sheet1 Member=Component ER3 K
+Added Member To Class: ClassName=Sheet1 Member=Component ER4 K
+Added Member To Class: ClassName=Sheet1 Member=Component ER5 K
+Added Member To Class: ClassName=Sheet1 Member=Component ER6 K
+Added Room: Name=Sheet1

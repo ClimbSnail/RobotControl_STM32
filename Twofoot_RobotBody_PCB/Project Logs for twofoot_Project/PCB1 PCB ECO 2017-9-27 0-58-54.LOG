@@ -1,0 +1,16 @@
+Added Component: Designator=P(HDR1X4 _NSS)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=MISO Pin=P-2
+Added Pin To Net: NetName=MISO Pin=U1-35
+Added Net: Name=MISO
+Added Pin To Net: NetName=MOSI Pin=P-1
+Added Pin To Net: NetName=MOSI Pin=U1-36
+Added Net: Name=MOSI
+Added Pin To Net: NetName=NSS Pin=P-4
+Added Pin To Net: NetName=NSS Pin=U1-33
+Added Net: Name=NSS
+Added Pin To Net: NetName=SPI2_CK Pin=P-3
+Added Pin To Net: NetName=SPI2_CK Pin=U1-34
+Added Net: Name=SPI2_CK
+Added Member To Class: ClassName=Sheet1 Member=Component P hader4
+Added Room: Name=Sheet1

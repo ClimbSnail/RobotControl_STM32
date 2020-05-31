@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=GND Pin=DS1-2
+Removed Pin From Net: NetName=VCC_7.4V Pin=R7-1
+Removed Member From Class: ClassName=Sheet1 Member=DS1
+Removed Member From Class: ClassName=Sheet1 Member=R7
+Added Member To Class: ClassName=Sheet1 Member=Component H4 hader_3*3
+Added Room: Name=Sheet1

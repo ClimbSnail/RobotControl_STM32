@@ -1,0 +1,44 @@
+Protel Design System Design Rule Check
+PCB File : I:\PCB_Project\twofoot_Project\PCB1.PcbDoc
+Date     : 2017/11/1
+Time     : 16:41:16
+
+Processing Rule : Clearance Constraint (Gap=6mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=Yes) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=4mil) (Max=80mil) (Preferred=10mil) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=1mil) (Max=150mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=6mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=1.5mil) (All),(All)
+   Violation between Minimum Solder Mask Sliver Constraint: (0.945mil < 1.5mil) Between Via (3817mil,4509mil) from Top Layer to Bottom Layer And Pad -1(3900mil,4502mil) on Top Layer [Top Solder] Mask Sliver [0.945mil]
+Rule Violations :1
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+   Violation between Net Antennae: Via (3128mil,3021mil) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (3130.001mil,3473.317mil) from Top Layer to Bottom Layer 
+Rule Violations :2
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+
+Violations Detected : 3
+Time Elapsed        : 00:00:01

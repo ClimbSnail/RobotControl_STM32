@@ -1,0 +1,119 @@
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDocument"; Value = "Feb-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "3.2X1.6X1.1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.apem.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DatasheetDocument"; Value = "05-Dec-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Dec-2003"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Schematic revised, PCB Footprint replaced."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "TL36WW15050"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "24-Mar-1999"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=*?(HDR2X5)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND_A Pin=*?-0
+Added Pin To Net: NetName=ADC1 Pin=*?-1
+Added Pin To Net: NetName=ADC2 Pin=*?-2
+Added Pin To Net: NetName=ADC3 Pin=*?-3
+Added Pin To Net: NetName=ADC4 Pin=*?-4
+Added Pin To Net: NetName=ADC5 Pin=*?-5
+Added Pin To Net: NetName=ADC6 Pin=*?-6
+Added Pin To Net: NetName=ADC7 Pin=*?-7
+Added Pin To Net: NetName=ADC8 Pin=*?-8
+Added Pin To Net: NetName=VCC_3.3 Pin=*?-9
+Added Member To Class: ClassName=Sheet1 Member=Component *? Header5x2
+Added Member To Class: ClassName=Sheet1 Member=Component C? 220uF
+Added Member To Class: ClassName=Sheet1 Member=Component C? 104
+Added Member To Class: ClassName=Sheet1 Member=Component C? 104
+Added Member To Class: ClassName=Sheet1 Member=Component C? 104
+Added Member To Class: ClassName=Sheet1 Member=Component C? 104
+Added Member To Class: ClassName=Sheet1 Member=Component C? 104
+Added Member To Class: ClassName=Sheet1 Member=Component C? 10UF
+Added Member To Class: ClassName=Sheet1 Member=Component C? 104
+Added Member To Class: ClassName=Sheet1 Member=Component C? 104
+Added Member To Class: ClassName=Sheet1 Member=Component C? 104
+Added Member To Class: ClassName=Sheet1 Member=Component C? 104
+Added Member To Class: ClassName=Sheet1 Member=Component C? 104
+Added Member To Class: ClassName=Sheet1 Member=Component D? 1N4148
+Added Member To Class: ClassName=Sheet1 Member=Component D? 1N4148
+Added Member To Class: ClassName=Sheet1 Member=Component DM? SMBJ
+Added Member To Class: ClassName=Sheet1 Member=Component DM? SMBJ
+Added Member To Class: ClassName=Sheet1 Member=Component DM? SMBJ
+Added Member To Class: ClassName=Sheet1 Member=Component DM? SMBJ
+Added Member To Class: ClassName=Sheet1 Member=Component DM? SMBJ
+Added Member To Class: ClassName=Sheet1 Member=Component DM? SMBJ
+Added Member To Class: ClassName=Sheet1 Member=Component DM? SMBJ
+Added Member To Class: ClassName=Sheet1 Member=Component DM? SMBJ
+Added Member To Class: ClassName=Sheet1 Member=Component DM? SMBJ
+Added Member To Class: ClassName=Sheet1 Member=Component DM? SMBJ
+Added Member To Class: ClassName=Sheet1 Member=Component DM? SMBJ
+Added Member To Class: ClassName=Sheet1 Member=Component DM? SMBJ
+Added Member To Class: ClassName=Sheet1 Member=Component DM? SMBJ
+Added Member To Class: ClassName=Sheet1 Member=Component DM? SMBJ
+Added Member To Class: ClassName=Sheet1 Member=Component DM? SMBJ
+Added Member To Class: ClassName=Sheet1 Member=Component DM? SMBJ
+Added Member To Class: ClassName=Sheet1 Member=Component DM? SMBJ
+Added Member To Class: ClassName=Sheet1 Member=Component DM? SMBJ
+Added Member To Class: ClassName=Sheet1 Member=Component DM? SMBJ
+Added Member To Class: ClassName=Sheet1 Member=Component DM? SMBJ
+Added Member To Class: ClassName=Sheet1 Member=Component DM? SMBJ
+Added Member To Class: ClassName=Sheet1 Member=Component DM? SMBJ
+Added Member To Class: ClassName=Sheet1 Member=Component DM? SMBJ
+Added Member To Class: ClassName=Sheet1 Member=Component ER? K
+Added Member To Class: ClassName=Sheet1 Member=Component ER? K
+Added Member To Class: ClassName=Sheet1 Member=Component ER? K
+Added Member To Class: ClassName=Sheet1 Member=Component ER? K
+Added Member To Class: ClassName=Sheet1 Member=Component ER? K
+Added Member To Class: ClassName=Sheet1 Member=Component H? hader_3*3
+Added Member To Class: ClassName=Sheet1 Member=Component H? hader_3*3
+Added Member To Class: ClassName=Sheet1 Member=Component H? hader_3*3
+Added Member To Class: ClassName=Sheet1 Member=Component H? hader_3*3
+Added Member To Class: ClassName=Sheet1 Member=Component H? hader_3*3
+Added Member To Class: ClassName=Sheet1 Member=Component H? hader_3*3
+Added Member To Class: ClassName=Sheet1 Member=Component H? hader_3*3
+Added Member To Class: ClassName=Sheet1 Member=Component MOS? SI2302
+Added Member To Class: ClassName=Sheet1 Member=Component P? hader4
+Added Member To Class: ClassName=Sheet1 Member=Component P? LED_COM
+Added Member To Class: ClassName=Sheet1 Member=Component P? LED_COM
+Added Member To Class: ClassName=Sheet1 Member=Component P? OLED_IIC
+Added Member To Class: ClassName=Sheet1 Member=Component P? ´®¿Ú
+Added Member To Class: ClassName=Sheet1 Member=Component P? ´®¿Ú
+Added Member To Class: ClassName=Sheet1 Member=Component R? 100R
+Added Member To Class: ClassName=Sheet1 Member=Component R? 10K
+Added Member To Class: ClassName=Sheet1 Member=Component R? 100R
+Added Member To Class: ClassName=Sheet1 Member=Component R? 10K
+Added Member To Class: ClassName=Sheet1 Member=Component R? 10K
+Added Member To Class: ClassName=Sheet1 Member=Component R? 1K
+Added Member To Class: ClassName=Sheet1 Member=Component R? 1.5K
+Added Member To Class: ClassName=Sheet1 Member=Component R? 10R
+Added Member To Class: ClassName=Sheet1 Member=Component U? AMS1117-3.3
+Added Member To Class: ClassName=Sheet1 Member=Component U? STM32F103RCT6
+Added Member To Class: ClassName=Sheet1 Member=Component Y? 8MHz
+Added Room: Name=Sheet1

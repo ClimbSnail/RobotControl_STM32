@@ -1,0 +1,24 @@
+Removed Pin From Net: NetName=PWM_14 Pin=ER4-2
+Removed Pin From Net: NetName=PWM_15 Pin=ER4-4
+Removed Pin From Net: NetName=PWM_16 Pin=ER4-6
+Removed Pin From Net: NetName=L1 Pin=ER4-7
+Removed Pin From Net: NetName=PWM_5 Pin=ER4-8
+Removed Member From Class: ClassName=Sheet1 Member=ER4
+Added Component: Designator=ER(8P4R_0603)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=L1 Pin=ER-1
+Added Pin To Net: NetName=PWM_5 Pin=ER-2
+Added Pin To Net: NetName=PWM_14 Pin=ER-4
+Added Pin To Net: NetName=PWM_15 Pin=ER-6
+Added Pin To Net: NetName=PWM_16 Pin=ER-8
+Added Pin To Net: NetName=NetER_3 Pin=ER-3
+Added Pin To Net: NetName=NetER_3 Pin=H5-7
+Added Net: Name=NetER_3
+Added Pin To Net: NetName=NetER_5 Pin=ER-5
+Added Pin To Net: NetName=NetER_5 Pin=H5-8
+Added Net: Name=NetER_5
+Added Pin To Net: NetName=NetER_7 Pin=ER-7
+Added Pin To Net: NetName=NetER_7 Pin=H5-9
+Added Net: Name=NetER_7
+Added Member To Class: ClassName=Sheet1 Member=Component ER K
+Added Room: Name=Sheet1

@@ -1,0 +1,49 @@
+Change Component Comment : Designator=C1 Old Comment=104 New Comment=22
+Change Component Comment : Designator=C2 Old Comment=104 New Comment=22
+Change Component Designator: OldDesignator= NewDesignator=*1
+Change Component Designator: OldDesignator= NewDesignator=DM2
+Change Component Designator: OldDesignator= NewDesignator=DM6
+Change Component Designator: OldDesignator= NewDesignator=DM8
+Change Component Designator: OldDesignator= NewDesignator=DM12
+Change Component Designator: OldDesignator= NewDesignator=DM14
+Change Component Designator: OldDesignator= NewDesignator=DM18
+Change Component Designator: OldDesignator= NewDesignator=DM20
+Change Component Designator: OldDesignator= NewDesignator=DM24
+Change Component Designator: OldDesignator= NewDesignator=ER1
+Change Component Designator: OldDesignator= NewDesignator=ER2
+Change Component Designator: OldDesignator= NewDesignator=ER3
+Change Component Designator: OldDesignator= NewDesignator=ER4
+Change Component Designator: OldDesignator= NewDesignator=ER5
+Change Component Designator: OldDesignator= NewDesignator=ER6
+Change Component Designator: OldDesignator= NewDesignator=H3
+Change Component Designator: OldDesignator= NewDesignator=H5
+Change Component Designator: OldDesignator= NewDesignator=H7
+Change Component Designator: OldDesignator= NewDesignator=U3
+Change Component Designator: OldDesignator=IIC NewDesignator=P7
+Change Component Designator: OldDesignator=KEY NewDesignator=KEY1
+Change Component Designator: OldDesignator=SPI NewDesignator=P2
+Change Component Designator: OldDesignator=STM32RCT6 NewDesignator=U1
+Change Component Designator: OldDesignator=SWD NewDesignator=P3
+Change Component Designator: OldDesignator=UART1 NewDesignator=P6
+Change Component Designator: OldDesignator=UART2 NewDesignator=P1
+Added Member To Class: ClassName=Sheet1 Member=Component *1 Header5x2
+Added Member To Class: ClassName=Sheet1 Member=Component DM2 SMBJ
+Added Member To Class: ClassName=Sheet1 Member=Component DM6 SMBJ
+Added Member To Class: ClassName=Sheet1 Member=Component DM8 SMBJ
+Added Member To Class: ClassName=Sheet1 Member=Component DM12 SMBJ
+Added Member To Class: ClassName=Sheet1 Member=Component DM14 SMBJ
+Added Member To Class: ClassName=Sheet1 Member=Component DM18 SMBJ
+Added Member To Class: ClassName=Sheet1 Member=Component DM20 SMBJ
+Added Member To Class: ClassName=Sheet1 Member=Component DM24 SMBJ
+Added Member To Class: ClassName=Sheet1 Member=Component ER1 K
+Added Member To Class: ClassName=Sheet1 Member=Component ER2 K
+Added Member To Class: ClassName=Sheet1 Member=Component ER3 K
+Added Member To Class: ClassName=Sheet1 Member=Component ER4 K
+Added Member To Class: ClassName=Sheet1 Member=Component ER5 K
+Added Member To Class: ClassName=Sheet1 Member=Component ER6 K
+Added Member To Class: ClassName=Sheet1 Member=Component H1 hader_3*3
+Added Member To Class: ClassName=Sheet1 Member=Component H3 hader_3*3
+Added Member To Class: ClassName=Sheet1 Member=Component H5 hader_3*3
+Added Member To Class: ClassName=Sheet1 Member=Component H7 hader_3*3
+Added Member To Class: ClassName=Sheet1 Member=Component U3 AMS1117-3.3
+Added Room: Name=Sheet1
